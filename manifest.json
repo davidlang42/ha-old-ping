@@ -1,0 +1,8 @@
+{
+  "domain": "old_ping",
+  "name": "Ping (ICMP) at icmplib==1.2.2",
+  "documentation": "https://www.home-assistant.io/integrations/ping",
+  "codeowners": [],
+  "requirements": ["icmplib==1.2.2"],
+  "quality_scale": "internal"
+}
