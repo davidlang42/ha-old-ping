@@ -2,7 +2,7 @@
 
 from homeassistant.core import callback
 
-DOMAIN = "ping"
+DOMAIN = "old_ping"
 PLATFORMS = ["binary_sensor"]
 
 PING_ID = "ping_id"
